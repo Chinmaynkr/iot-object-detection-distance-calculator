@@ -22,9 +22,8 @@ This project implements an IoT-based system for object detection and live distan
 
 ## Installation and Setup:
 
-1. **Hardware Setup:** Connect the components as per the provided circuit diagram.
-2. **Software Installation:** Upload the Arduino code (`Ultrasonic_Sensor.ino`) to the ESP8266 using the Arduino IDE.
-3. **Run:** Power on the system and observe the OLED display for real-time object distance updates.
+1. **Software Installation:** Upload the Arduino code (`Ultrasonic_Sensor.ino`) to the ESP8266 using the Arduino IDE.
+2. **Run:** Power on the system and observe the OLED display for real-time object distance updates.
 
 ## Usage:
 
